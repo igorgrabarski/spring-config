@@ -1,2 +1,6 @@
 server:
   port: 9999
+eurika:
+  client:
+    register-with-eurika=false
+    fetch-registry:false
